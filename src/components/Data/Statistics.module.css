@@ -1,0 +1,9 @@
+.listStat {
+  list-style: none;
+  padding-left: 0;
+}
+.item {
+  padding-bottom: 10px;
+  font-weight: 500;
+  color: rgb(58, 56, 56);
+}

@@ -1,0 +1,10 @@
+.container {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  box-shadow: 0 1px 4px #000, -23px 0 20px -23px rgb(0 0 0 / 80%),
+    23px 0 20px -23px rgb(0 0 0 / 80%), inset 0 0 40px rgb(0 0 0 / 10%);
+}
